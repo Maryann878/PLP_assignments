@@ -7,7 +7,7 @@
 # Sort my_list in ascending order.
 # Find and print the index of the value 30 in my_list.
 
-
+# SOLUTION
 # create an empty list
 my_list = []
 
